@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-ZENTRA is an intelligent Web3 payment platform that enables seamless peer-to-peer transactions through WhatsApp. Powered by Circle's Web3 services and Temporal workflows, ZENTRA allows users to send and receive USDC payments directly through conversational AI, making blockchain transactions accessible to everyone.
+ZENTRA is an AI-Powered USDC Payments on WhatsApp platform that enables seamless peer-to-peer transactions through WhatsApp. Powered by Circle's Web3 services and Temporal workflows, ZENTRA allows users to send and receive USDC payments directly through conversational AI, making blockchain transactions accessible to everyone.
 
 **Key Highlights:**
 - WhatsApp-based payment interface
