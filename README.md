@@ -1,4 +1,4 @@
-# ZENTRA - Web3 WhatsApp Payment Platform
+# ZENTRA - AI-Powered USDC Payments on WhatsApp
 
 ## 1. Introduction
 
